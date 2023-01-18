@@ -59,7 +59,7 @@ function Header() {
         <Navbar.Brand>
           <Avatar
             src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Quick-Heal-Logo.png"
-            css={{ size: "$15", mr: 12 }}
+            css={{ size: "$150", mr: 12 }}
           />
         </Navbar.Brand>
         <Navbar.Content hideIn="xs" variant="highlight">
